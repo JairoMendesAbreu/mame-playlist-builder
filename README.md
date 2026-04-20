@@ -46,7 +46,7 @@ existing assets through a safe backup and rollback system.
 ![Backup Restore](docs/screenshots/backup-restore.png)
 
 ### Architecture Overview
-![Architecture](docs/architecture.png)
+![Architecture](docs/screenshots/architecture.png)
 
 ### About
 ![About](docs/screenshots/about.png)

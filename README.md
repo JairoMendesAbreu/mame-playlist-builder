@@ -16,6 +16,8 @@ especially when dealing with icons, thumbnails and multiple XMB themes.
 MAME Playlist Builder was created to automate this process while preserving
 existing assets through a safe backup and rollback system.
 
+---
+
 ## ✨ Key Features
 
 - ✅ Automatic playlist generation grouped by alphanumeric ranges
